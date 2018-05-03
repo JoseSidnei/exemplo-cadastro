@@ -1,0 +1,6 @@
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\bin\Debug\ExemploSistemaComForWhileVetor.exe.config
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\bin\Debug\ExemploSistemaComForWhileVetor.exe
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\bin\Debug\ExemploSistemaComForWhileVetor.pdb
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\obj\Debug\ExemploSistemaComForWhileVetor.csprojResolveAssemblyReference.cache
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\obj\Debug\ExemploSistemaComForWhileVetor.exe
+C:\Users\104895\Documents\Visual Studio 2013\Projects\ExemploSistemaComForWhileVetor\ExemploSistemaComForWhileVetor\obj\Debug\ExemploSistemaComForWhileVetor.pdb
